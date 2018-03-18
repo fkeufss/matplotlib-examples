@@ -8,7 +8,6 @@ mpl.rcParams['text.usetex'] = True
 mpl.rcParams['font.family'] = 'serif';
 mpl.rcParams['font.size'] = 16;
 
-# data1 = {"word":[# of score 2, # of score 1, # of score 0]}
 
 score_compare = {
 	'subject': [22, 28, 8],
