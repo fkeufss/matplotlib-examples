@@ -7,6 +7,7 @@ mpl.rcParams['font.family'] = 'serif';
 mpl.rcParams['font.size'] = 18;
 
 
+
 # data1 = {"word":[# of score 2, # of score 1, # of score 0]}
 score_dist_data1 = {
 	'subject': [27, 18, 13],
