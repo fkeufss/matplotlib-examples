@@ -8,6 +8,7 @@ mpl.rcParams['font.size'] = 18;
 
 print "Hello"
 print "Lalala"
+print "dajiji"
 
 # data1 = {"word":[# of score 2, # of score 1, # of score 0]}
 score_dist_data1 = {
